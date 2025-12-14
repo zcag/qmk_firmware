@@ -1,0 +1,1 @@
+../dotty/keyboard/qmk_firmware/symlinks.sh
